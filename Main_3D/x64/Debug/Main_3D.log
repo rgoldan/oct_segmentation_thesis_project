@@ -1,0 +1,129 @@
+﻿  stdafx.cpp
+cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  Segmentations.cpp
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(58): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(71): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(72): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(74): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(84): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(93): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(96): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(110): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(113): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(123): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(132): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(135): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(184): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(198): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(199): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(201): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(203): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(204): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(209): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(215): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(254): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(255): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(261): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(264): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(265): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(271): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(279): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(284): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(298): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(300): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(302): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(304): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(314): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(315): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(319): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(320): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(332): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(333): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(344): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(311): warning C4101: 'frSizeI': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(364): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(366): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(368): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\segmentations.cpp(370): warning C4244: 'argument': conversion from 'float' to 'std::size_t', possible loss of data
+  Main_3D.cpp
+e:\visual studio 2015\projects\main_3d\processlib\rendertarget.h(24): warning C4467: usage of ATL attributes is deprecated
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(164): warning C4244: 'argument': conversion from 'double' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(255): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(255): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(401): warning C4244: 'argument': conversion from 'double' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(346): warning C4101: 'm': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(346): warning C4101: 'i': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(346): warning C4101: 'j': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(514): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(515): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(620): warning C4244: 'initializing': conversion from 'Ipp64f' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(623): warning C4244: 'argument': conversion from 'Ipp32f' to 'Ipp8u', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(767): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(768): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(789): warning C4838: conversion from 'double' to 'Ipp32f' requires a narrowing conversion
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(789): warning C4305: 'initializing': truncation from 'double' to 'Ipp32f'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(797): warning C4838: conversion from 'double' to 'Ipp32f' requires a narrowing conversion
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(797): warning C4305: 'initializing': truncation from 'double' to 'Ipp32f'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(813): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(819): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(880): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(881): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(896): warning C4305: 'argument': truncation from 'double' to 'Ipp32f'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(968): warning C4305: 'argument': truncation from 'double' to 'Ipp32f'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(989): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(990): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1030): warning C4101: 'min2': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1030): warning C4101: 'min3': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1045): warning C4101: 'p1': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1045): warning C4101: 'p2': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1089): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1090): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1106): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1107): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1700): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1701): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1702): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1703): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1710): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1711): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1712): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1713): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1882): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1883): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(1884): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2434): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2475): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2485): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2486): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2487): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2488): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2489): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2490): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2491): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2492): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2636): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2643): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2654): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2518): warning C4101: 'lastMinI': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2470): warning C4101: 'lastRow': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2451): warning C4101: 'nonZeroIpp': unreferenced local variable
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2722): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2723): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2811): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2812): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2813): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2814): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2851): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2852): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2860): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(2841): warning C4101: 'pMin2': unreferenced local variable
+  Generating Code...
+  Main_3D.vcxproj -> E:\Visual Studio 2015\Projects\Main_3D\x64\Debug\Main_3D.exe
+  Main_3D.vcxproj -> E:\Visual Studio 2015\Projects\Main_3D\x64\Debug\Main_3D.pdb (Full PDB)

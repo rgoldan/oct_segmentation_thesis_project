@@ -1,0 +1,80 @@
+﻿  Main_3D.cpp
+e:\visual studio 2015\projects\main_3d\processlib\RenderTarget.h(24): warning C4467: usage of ATL attributes is deprecated
+Main_3D.cpp(152): warning C4244: 'argument': conversion from 'double' to 'Ipp32f', possible loss of data
+Main_3D.cpp(190): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+Main_3D.cpp(190): warning C4305: 'initializing': truncation from 'double' to 'float'
+Main_3D.cpp(253): warning C4244: 'argument': conversion from 'double' to 'Ipp32f', possible loss of data
+Main_3D.cpp(202): warning C4101: 'm': unreferenced local variable
+Main_3D.cpp(202): warning C4101: 'i': unreferenced local variable
+Main_3D.cpp(202): warning C4101: 'j': unreferenced local variable
+Main_3D.cpp(324): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(325): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(417): warning C4244: 'initializing': conversion from 'Ipp64f' to 'Ipp32f', possible loss of data
+Main_3D.cpp(420): warning C4244: 'argument': conversion from 'Ipp32f' to 'Ipp8u', possible loss of data
+Main_3D.cpp(564): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(565): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(586): warning C4838: conversion from 'double' to 'Ipp32f' requires a narrowing conversion
+Main_3D.cpp(586): warning C4305: 'initializing': truncation from 'double' to 'Ipp32f'
+Main_3D.cpp(594): warning C4838: conversion from 'double' to 'Ipp32f' requires a narrowing conversion
+Main_3D.cpp(594): warning C4305: 'initializing': truncation from 'double' to 'Ipp32f'
+Main_3D.cpp(610): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(616): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(677): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Main_3D.cpp(678): warning C4305: 'initializing': truncation from 'double' to 'float'
+Main_3D.cpp(693): warning C4305: 'argument': truncation from 'double' to 'Ipp32f'
+Main_3D.cpp(765): warning C4305: 'argument': truncation from 'double' to 'Ipp32f'
+Main_3D.cpp(786): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(787): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(827): warning C4101: 'min2': unreferenced local variable
+Main_3D.cpp(827): warning C4101: 'min3': unreferenced local variable
+Main_3D.cpp(842): warning C4101: 'p1': unreferenced local variable
+Main_3D.cpp(842): warning C4101: 'p2': unreferenced local variable
+Main_3D.cpp(880): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Main_3D.cpp(881): warning C4305: 'initializing': truncation from 'double' to 'float'
+Main_3D.cpp(882): warning C4305: 'initializing': truncation from 'double' to 'float'
+Main_3D.cpp(1432): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(1479): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(1489): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(1490): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(1491): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(1492): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(1493): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(1494): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(1495): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(1496): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(1470): warning C4101: 'lastRow': unreferenced local variable
+Main_3D.cpp(1449): warning C4101: 'nonZeroIpp': unreferenced local variable
+Main_3D.cpp(1677): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Main_3D.cpp(1678): warning C4305: 'initializing': truncation from 'double' to 'float'
+Main_3D.cpp(1679): warning C4305: 'initializing': truncation from 'double' to 'float'
+Main_3D.cpp(2229): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2276): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2286): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(2287): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(2288): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(2289): warning C4244: '=': conversion from 'Ipp32f' to 'int32_t', possible loss of data
+Main_3D.cpp(2290): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2291): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2292): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2293): warning C4244: 'argument': conversion from 'int32_t' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2437): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2444): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2455): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2319): warning C4101: 'lastMinI': unreferenced local variable
+Main_3D.cpp(2267): warning C4101: 'lastRow': unreferenced local variable
+Main_3D.cpp(2246): warning C4101: 'nonZeroIpp': unreferenced local variable
+Main_3D.cpp(2573): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2574): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2575): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2576): warning C4244: '=': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2613): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2614): warning C4244: 'argument': conversion from 'int' to 'Ipp32f', possible loss of data
+Main_3D.cpp(2622): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Main_3D.cpp(2603): warning C4101: 'pMin2': unreferenced local variable
+  Generating code
+  8 of 779 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Main_3D.vcxproj -> E:\Visual Studio 2015\Projects\Main_3D\x64\Release\Main_3D.exe
+  Main_3D.vcxproj -> E:\Visual Studio 2015\Projects\Main_3D\x64\Release\Main_3D.pdb (Full PDB)

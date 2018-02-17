@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Main_3D.cpp
+\\crcfile12\rgoldan\visual studio 2015\projects\main_3d\main_3d\main_3d.cpp(6): fatal error C1083: Cannot open include file: 'opencv2/imgproc/imgproc.hpp': No such file or directory
