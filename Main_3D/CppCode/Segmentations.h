@@ -1,3 +1,5 @@
+//Author: Ryan Goldan
+
 #pragma once
 #include "stdafx.h"
 

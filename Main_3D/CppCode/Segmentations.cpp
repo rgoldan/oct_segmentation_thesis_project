@@ -5,6 +5,8 @@
 // Epithelium surface (or TS - top surface) saved as 1s
 // Basement membrane saved as 2s
 
+//Author: Ryan Goldan
+
 Segmentations::Segmentations(IppiSize roi, int dep, int nSurfs)
 {
 	numFrames =dep;
